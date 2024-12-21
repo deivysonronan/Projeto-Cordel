@@ -78,9 +78,11 @@
     section.imagem{
         background-color: rgb(80, 80, 80);
         color: white ;
-        background-size: cover;
         box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.658);
+        background-size: cover;
         background-attachment: fixed;
+        
+    
     }
 
     section.imagem > p{
@@ -97,7 +99,9 @@
     section#img01{
 
         background-image: url(imagens/background001.jpg);
-        background-position: right top;
+        background-position: right center;
+        
+      
         
     }
 
